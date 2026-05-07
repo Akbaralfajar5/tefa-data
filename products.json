@@ -3,28 +3,14 @@
     "id": "1",
     "slug": "hand-sanitizer-100ml",
     "name": "Hand Sanitizer 100ml",
-    "price": 15000,
-    "priceFormatted": "Rp 15.000",
+    "price": 15500,
+    "priceFormatted": "Rp 15.500",
     "description": "Pembersih tangan berbasis alkohol 70%",
     "longDescription": "Hand Sanitizer produksi TEFA SMKN 1 Cibadak dengan kandungan alkohol 70% yang efektif membunuh kuman dan bakteri. Dilengkapi dengan pelembab alami agar tangan tetap lembut setelah penggunaan. Ukuran 100ml yang praktis dan mudah dibawa ke mana saja. Produk ini diproduksi oleh siswa-siswi SMKN 1 Cibadak di bawah bimbingan guru profesional dengan standar kualitas yang terjaga.",
     "category": "Kesehatan",
     "volume": "100ml",
     "color": "#2B4EA2",
-    "image": "",
-    "ingredients": [
-      "Alkohol 70%",
-      "Gliserin",
-      "Aloe Vera Extract",
-      "Aqua",
-      "Parfum"
-    ],
-    "benefits": [
-      "Membunuh 99.9% kuman dan bakteri",
-      "Cepat kering dan tidak lengket",
-      "Melembabkan tangan",
-      "Ukuran praktis mudah dibawa",
-      "Aroma segar dan menyenangkan"
-    ]
+    "image": ""
   },
   {
     "id": "2",
@@ -33,7 +19,7 @@
     "price": 10000,
     "priceFormatted": "Rp 10.000",
     "description": "Sabun mandi padat berkualitas",
-    "longDescription": "Sabun batang berkualitas tinggi produksi TEFA SMKN 1 Cibadak. Diformulasikan dengan bahan-bahan pilihan yang lembut di kulit namun efektif membersihkan.",
+    "longDescription": "Sabun batang berkualitas tinggi produksi TEFA SMKN 1 Cibadak. Diformulasikan dengan bahan-bahan pilihan yang lembut di kulit namun efektif membersihkan. Mengandung pelembab alami yang menjaga kelembutan kulit setelah mandi. Cocok untuk seluruh anggota keluarga. Diproduksi dengan proses yang higienis oleh siswa-siswi terampil SMKN 1 Cibadak.",
     "category": "Perawatan Tubuh",
     "volume": "",
     "color": "#2E8B3A",
@@ -61,7 +47,7 @@
     "price": 12000,
     "priceFormatted": "Rp 12.000",
     "description": "Cairan pencuci piring efektif",
-    "longDescription": "Sabun cuci piring cair produksi TEFA SMKN 1 Cibadak dengan formula khusus yang efektif mengangkat lemak dan sisa makanan membandel.",
+    "longDescription": "Sabun cuci piring cair produksi TEFA SMKN 1 Cibadak dengan formula khusus yang efektif mengangkat lemak dan sisa makanan membandel. Menghasilkan busa melimpah yang mampu membersihkan peralatan dapur hingga bersih kesat. Lembut di tangan namun kuat melawan noda. Tersedia dalam kemasan 500ml yang ekonomis. Produk unggulan Teaching Factory SMKN 1 Cibadak.",
     "category": "Kebersihan Rumah",
     "volume": "500ml",
     "color": "#E91E7B",
