@@ -1,0 +1,8 @@
+[
+  {"id":"1","label":"Proses Pencampuran Bahan Sabun Cuci Piring","category":"Produksi","imageUrl":""},
+  {"id":"2","label":"Uji Kualitas & pH Produk","category":"Quality Control","imageUrl":""},
+  {"id":"3","label":"Pengemasan Sabun Cuci Piring 500ml","category":"Pengemasan","imageUrl":""},
+  {"id":"4","label":"Kegiatan di Laboratorium PMHP","category":"Produksi","imageUrl":""},
+  {"id":"5","label":"Produk Siap Dipasarkan","category":"Pemasaran","imageUrl":""},
+  {"id":"6","label":"Tim Siswa Kelas XI PMHP","category":"Tim","imageUrl":""}
+]
