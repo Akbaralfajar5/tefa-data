@@ -1,18 +1,5 @@
 [
   {
-    "id": "1",
-    "slug": "hand-sanitizer-100ml",
-    "name": "Hand Sanitizer 100ml",
-    "price": 15000,
-    "priceFormatted": "Rp 15.000",
-    "description": "Pembersih tangan berbasis alkohol 70%",
-    "longDescription": "Hand Sanitizer produksi TEFA SMKN 1 Cibadak dengan kandungan alkohol 70% yang efektif membunuh kuman dan bakteri. Dilengkapi dengan pelembab alami agar tangan tetap lembut setelah penggunaan. Ukuran 100ml yang praktis dan mudah dibawa ke mana saja. Produk ini diproduksi oleh siswa-siswi SMKN 1 Cibadak di bawah bimbingan guru profesional dengan standar kualitas yang terjaga.",
-    "category": "Kesehatan",
-    "volume": "100ml",
-    "color": "#2B4EA2",
-    "image": ""
-  },
-  {
     "id": "2",
     "slug": "sabun-batang",
     "name": "Sabun Batang",
