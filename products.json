@@ -1,33 +1,5 @@
 [
   {
-    "id": "2",
-    "slug": "sabun-batang",
-    "name": "Sabun Batang",
-    "price": 10000,
-    "priceFormatted": "Rp 10.000",
-    "description": "Sabun mandi padat berkualitas",
-    "longDescription": "Sabun batang berkualitas tinggi produksi TEFA SMKN 1 Cibadak. Diformulasikan dengan bahan-bahan pilihan yang lembut di kulit namun efektif membersihkan. Mengandung pelembab alami yang menjaga kelembutan kulit setelah mandi. Cocok untuk seluruh anggota keluarga. Diproduksi dengan proses yang higienis oleh siswa-siswi terampil SMKN 1 Cibadak.",
-    "category": "Perawatan Tubuh",
-    "volume": "",
-    "color": "#2E8B3A",
-    "image": "",
-    "ingredients": [
-      "Sodium Palmate",
-      "Sodium Palm Kernelate",
-      "Aqua",
-      "Glycerin",
-      "Coconut Oil",
-      "Parfum"
-    ],
-    "benefits": [
-      "Membersihkan kulit secara menyeluruh",
-      "Melembabkan dan melembutkan kulit",
-      "Aroma wangi tahan lama",
-      "Cocok untuk semua jenis kulit",
-      "Busa melimpah dan lembut"
-    ]
-  },
-  {
     "id": "3",
     "slug": "sabun-cuci-piring-500ml",
     "name": "Sabun Cuci Piring 500ml",
