@@ -1,29 +1,29 @@
 {
-  "brandName": "TEFA",
+  "brandName": "TEFA PMHP",
   "brandSubtitle": "SMKN 1 Cibadak",
-  "brandDescription": "Teaching Factory SMKN 1 Cibadak memproduksi produk berkualitas sebagai sarana pembelajaran kewirausahaan siswa.",
+  "brandDescription": "Teaching Factory Program Keahlian Pengawasan Mutu Hasil Pertanian (PMHP) SMKN 1 Cibadak — memproduksi sabun cuci piring berkualitas sebagai sarana pembelajaran kewirausahaan siswa.",
   "hero": {
-    "badge": "Teaching Factory SMKN 1 Cibadak",
-    "heading1": "Produk Berkualitas",
-    "heading2": "Karya Siswa",
-    "heading3": "SMK",
-    "description": "Kami memproduksi hand sanitizer, sabun batang, dan sabun cuci piring berkualitas tinggi melalui program Teaching Factory SMKN 1 Cibadak."
+    "badge": "TEFA — Pengawasan Mutu Hasil Pertanian SMKN 1 Cibadak",
+    "heading1": "Sabun Cuci Piring",
+    "heading2": "Berkualitas",
+    "heading3": "Karya Siswa PMHP",
+    "description": "Produk sabun cuci piring berkualitas tinggi hasil Teaching Factory Program Keahlian Pengawasan Mutu Hasil Pertanian (PMHP) SMKN 1 Cibadak. Efektif, lembut di tangan, dan diproduksi dengan standar industri."
   },
   "stats": [
     {
-      "number": "3+",
-      "label": "Produk",
-      "icon": "📦"
+      "number": "500ml",
+      "label": "Kemasan Ekonomis",
+      "icon": "🧴"
     },
     {
       "number": "100%",
-      "label": "Buatan Siswa",
+      "label": "Buatan Siswa PMHP",
       "icon": "🎓"
     },
     {
-      "number": "70%",
-      "label": "Alkohol (Sanitizer)",
-      "icon": "🧴"
+      "number": "PMHP",
+      "label": "Program Keahlian",
+      "icon": "🏭"
     },
     {
       "number": "24/7",
@@ -31,25 +31,25 @@
       "icon": "📱"
     }
   ],
-  "featuredBadge": "Produk Unggulan",
-  "featuredHeading": "Produk TEFA Kami",
-  "featuredDescription": "Produk berkualitas yang diproduksi oleh siswa-siswi SMKN 1 Cibadak melalui program Teaching Factory",
+  "featuredBadge": "Produk Unggulan TEFA PMHP",
+  "featuredHeading": "Produk TEFA PMHP Kami",
+  "featuredDescription": "Sabun cuci piring berkualitas yang diproduksi oleh siswa Program Keahlian Pengawasan Mutu Hasil Pertanian SMKN 1 Cibadak",
   "about": {
-    "badge": "Tentang Kami",
+    "badge": "Tentang TEFA PMHP",
     "heading": "Belajar Sambil Berproduksi",
     "description": "",
     "paragraphs": [
-      "TEFA (Teaching Factory) SMKN 1 Cibadak adalah program pembelajaran berbasis produksi yang mengintegrasikan proses belajar mengajar dengan kegiatan produksi nyata. Melalui program ini, siswa-siswi kami memproduksi berbagai produk berkualitas yang siap dipasarkan.",
-      "Setiap produk yang kami hasilkan melalui proses quality control yang ketat untuk memastikan kualitas terbaik sampai ke tangan konsumen."
+      "TEFA (Teaching Factory) adalah program pembelajaran berbasis produksi yang berjalan di Program Keahlian Pengawasan Mutu Hasil Pertanian (PMHP) SMKN 1 Cibadak — salah satu program keahlian dari beberapa prodi yang ada di SMKN 1 Cibadak. Program ini mengintegrasikan proses belajar mengajar dengan kegiatan produksi nyata, di mana siswa kelas XI PMHP memproduksi sabun cuci piring berkualitas yang siap dipasarkan.",
+      "Setiap botol sabun cuci piring yang kami hasilkan melewati proses quality control yang ketat — mulai dari uji pH, viskositas, hingga uji organoleptik — untuk memastikan kualitas terbaik sampai ke tangan konsumen."
     ],
     "bullets": [
-      "Produk berkualitas dengan standar industri",
-      "Diproduksi oleh siswa terampil di bawah bimbingan guru",
-      "Harga terjangkau untuk semua kalangan",
-      "Mendukung pendidikan vokasi Indonesia"
+      "Produk karya siswa Prodi PMHP SMKN 1 Cibadak",
+      "Diproduksi di bawah bimbingan guru profesional bidang pertanian",
+      "Harga terjangkau untuk semua kalangan masyarakat",
+      "Mendukung pendidikan vokasi dan agroindustri Indonesia"
     ],
-    "cardTitle": "Teaching Factory",
-    "cardDescription": "Program pembelajaran berbasis produksi yang mengintegrasikan proses belajar mengajar dengan kegiatan produksi nyata di lingkungan sekolah."
+    "cardTitle": "Teaching Factory PMHP",
+    "cardDescription": "Program pembelajaran berbasis produksi di Prodi Pengawasan Mutu Hasil Pertanian SMKN 1 Cibadak — mengintegrasikan teori dan praktik produksi nyata."
   },
   "aboutPage": {
     "tefaHeading": "Teaching Factory — Belajar Sambil Berproduksi",
@@ -95,6 +95,6 @@
       "Mengembangkan jiwa kewirausahaan siswa melalui pengalaman bisnis nyata"
     ]
   },
-  "ctaHeading": "Tertarik dengan Produk Kami?",
-  "ctaDescription": "Hubungi kami melalui WhatsApp untuk pemesanan atau informasi lebih lanjut tentang produk TEFA SMKN 1 Cibadak."
+  "ctaHeading": "Tertarik dengan Produk TEFA PMHP?",
+  "ctaDescription": "Hubungi kami melalui WhatsApp untuk pemesanan atau informasi lebih lanjut tentang produk sabun cuci piring TEFA Prodi PMHP SMKN 1 Cibadak."
 }
