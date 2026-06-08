@@ -2,29 +2,31 @@
   {
     "id": "3",
     "slug": "sabun-cuci-piring-500ml",
-    "name": "Sabun Cuci Piring 500ml",
+    "name": "TRAVIEST - Sabun Cuci Piring 500ml",
     "price": 7000,
     "priceFormatted": "Rp 7.000",
-    "description": "Cairan pencuci piring efektif",
-    "longDescription": "Sabun cuci piring cair produksi TEFA SMKN 1 Cibadak dengan formula khusus yang efektif mengangkat lemak dan sisa makanan membandel. Menghasilkan busa melimpah yang mampu membersihkan peralatan dapur hingga bersih kesat. Lembut di tangan namun kuat melawan noda. Tersedia dalam kemasan 500ml yang ekonomis. Produk unggulan Teaching Factory SMKN 1 Cibadak.",
+    "description": "Dish Wash Soap dengan Ekstrak Jeruk Nipis",
+    "longDescription": "TRAVIEST Dish Wash Soap produksi TEFA Prodi PMHP SMKN 1 Cibadak dengan ekstrak jeruk nipis alami yang efektif mengangkat lemak dan sisa makanan membandel. Menghasilkan busa melimpah yang mampu membersihkan peralatan dapur hingga bersih kesat. Lembut di tangan namun kuat melawan noda. Tersedia dalam kemasan 500ml yang ekonomis. Produk unggulan Teaching Factory Prodi PMHP SMKN 1 Cibadak.",
     "category": "Kebersihan Rumah",
     "volume": "500ml",
     "color": "#E91E7B",
-    "image": "",
+    "image": "/produk-sabun.jpg",
     "ingredients": [
       "Surfaktan",
       "Sodium Laureth Sulfate",
       "Aqua",
       "Pengawet",
       "Pewarna makanan",
-      "Parfum"
+      "Parfum",
+      "Ekstrak Jeruk Nipis"
     ],
     "benefits": [
       "Efektif mengangkat lemak membandel",
       "Busa melimpah dan tahan lama",
       "Lembut di tangan",
       "Aroma segar dan bersih",
-      "Kemasan ekonomis 500ml"
+      "Kemasan ekonomis 500ml",
+      "Mengandung ekstrak jeruk nipis alami"
     ]
   }
 ]
