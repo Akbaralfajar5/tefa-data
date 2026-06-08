@@ -10,7 +10,7 @@
     "category": "Kebersihan Rumah",
     "volume": "500ml",
     "color": "#E91E7B",
-    "image": "/produk-sabun.jpg",
+    "image": "https://raw.githubusercontent.com/Akbaralfajar5/tefa-data/main/produk-sabun.jpg",
     "ingredients": [
       "Surfaktan",
       "Sodium Laureth Sulfate",
