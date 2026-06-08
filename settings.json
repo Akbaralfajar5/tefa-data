@@ -96,5 +96,237 @@
     ]
   },
   "ctaHeading": "Tertarik dengan Produk TEFA PMHP?",
-  "ctaDescription": "Hubungi kami melalui WhatsApp untuk pemesanan atau informasi lebih lanjut tentang produk sabun cuci piring TEFA Prodi PMHP SMKN 1 Cibadak."
+  "ctaDescription": "Hubungi kami melalui WhatsApp untuk pemesanan atau informasi lebih lanjut tentang produk sabun cuci piring TEFA Prodi PMHP SMKN 1 Cibadak.",
+  "productIngredients": [
+    "Surfaktan",
+    "Sodium Laureth Sulfate",
+    "Aqua",
+    "Pengawet",
+    "Pewarna makanan",
+    "Parfum"
+  ],
+  "productBenefits": [
+    "Efektif mengangkat lemak membandel",
+    "Busa melimpah dan tahan lama",
+    "Lembut di tangan",
+    "Aroma segar dan bersih",
+    "Kemasan ekonomis 500ml"
+  ],
+  "faqCategories": [
+    {
+      "category": "Produk",
+      "description": "Informasi seputar bahan, keamanan, dan kualitas produk kami",
+      "color": "primary",
+      "items": [
+        {
+          "q": "Apa saja bahan yang digunakan dalam sabun cuci piring ini?",
+          "a": "Sabun cuci piring TEFA menggunakan bahan-bahan yang telah teruji, yaitu surfaktan, Sodium Laureth Sulfate (SLS), aqua, pengawet, pewarna makanan, dan parfum. Semua bahan dipilih sesuai standar keamanan produk kebersihan rumah tangga."
+        },
+        {
+          "q": "Apakah sabun ini aman untuk kulit tangan?",
+          "a": "Ya, sabun cuci piring TEFA diformulasikan dengan kandungan surfaktan yang lembut sehingga tidak merusak kulit tangan meski digunakan setiap hari. Formula kami menjaga keseimbangan antara daya bersih yang efektif dan kelembutan di kulit."
+        },
+        {
+          "q": "Berapa volume kemasan sabun cuci piring ini?",
+          "a": "Sabun cuci piring TEFA tersedia dalam kemasan 500ml yang ekonomis dan praktis untuk kebutuhan dapur sehari-hari."
+        },
+        {
+          "q": "Apakah produk ini sudah melalui uji kualitas?",
+          "a": "Ya. Setiap batch produk melewati proses quality control yang ketat di laboratorium PMHP SMKN 1 Cibadak, meliputi uji pH, uji viskositas, dan uji organoleptik (warna, aroma, tekstur) sebelum dikemas dan dipasarkan."
+        },
+        {
+          "q": "Apakah sabun ini efektif untuk lemak membandel?",
+          "a": "Ya. Formula surfaktan aktif dalam sabun cuci piring TEFA efektif mengangkat lemak dan sisa makanan membandel, menghasilkan busa melimpah yang membersihkan peralatan dapur hingga bersih kesat."
+        }
+      ]
+    },
+    {
+      "category": "Pemesanan",
+      "description": "Cara order, harga, dan informasi pengiriman",
+      "color": "accent",
+      "items": [
+        {
+          "q": "Bagaimana cara memesan produk ini?",
+          "a": "Pemesanan dilakukan melalui WhatsApp. Klik tombol 'Pesan via WhatsApp' di halaman produk atau kontak kami, lalu sampaikan jumlah yang ingin dipesan. Kami akan konfirmasi ketersediaan dan detail pengiriman."
+        },
+        {
+          "q": "Berapa harga sabun cuci piring TEFA?",
+          "a": "Harga sabun cuci piring TEFA adalah Rp 12.000 per botol 500ml. Harga terjangkau karena produk ini merupakan bagian dari program pembelajaran siswa, bukan produk komersial skala besar."
+        },
+        {
+          "q": "Apakah bisa pesan dalam jumlah banyak?",
+          "a": "Bisa. Untuk pemesanan dalam jumlah banyak (bulk order), silakan hubungi kami terlebih dahulu melalui WhatsApp untuk konfirmasi ketersediaan stok dan kemungkinan harga khusus."
+        },
+        {
+          "q": "Apakah ada pengiriman ke luar daerah?",
+          "a": "Saat ini kami melayani pembelian langsung di SMKN 1 Cibadak dan area sekitar Kabupaten Sukabumi. Untuk pengiriman ke luar daerah, silakan hubungi kami untuk informasi lebih lanjut."
+        }
+      ]
+    },
+    {
+      "category": "Tentang TEFA",
+      "description": "Mengenal program Teaching Factory dan siapa kami",
+      "color": "green",
+      "items": [
+        {
+          "q": "Apa itu Teaching Factory (TEFA)?",
+          "a": "Teaching Factory (TEFA) adalah model pembelajaran di SMK yang mengintegrasikan proses belajar mengajar dengan kegiatan produksi nyata. Siswa tidak hanya belajar teori, tetapi langsung mempraktikkan proses produksi, quality control, pengemasan, hingga pemasaran produk."
+        },
+        {
+          "q": "Siapa yang memproduksi sabun cuci piring ini?",
+          "a": "Sabun cuci piring ini diproduksi oleh siswa-siswi kelas XI Program Keahlian Pengawasan Mutu (PMHP) SMKN 1 Cibadak di bawah bimbingan guru profesional. Setiap proses produksi diawasi langsung untuk memastikan standar kualitas terjaga."
+        },
+        {
+          "q": "Mengapa membeli produk TEFA?",
+          "a": "Dengan membeli produk TEFA, kamu tidak hanya mendapatkan produk berkualitas dengan harga terjangkau, tetapi juga turut mendukung program pendidikan vokasi dan pengembangan kompetensi siswa SMK. Setiap pembelian berkontribusi langsung pada keberlangsungan program Teaching Factory."
+        },
+        {
+          "q": "Di mana lokasi SMKN 1 Cibadak?",
+          "a": "SMKN 1 Cibadak berlokasi di Jl. Al-Muwahhiddin, Karangtengah, Kec. Cibadak, Kab. Sukabumi, Jawa Barat 43351. Kamu bisa mengunjungi halaman Kontak untuk melihat peta lokasi lengkap."
+        }
+      ]
+    }
+  ],
+  "brandAwareness": {
+    "heroTitle": "Apa Itu Brand Awareness?",
+    "heroSubtitle": "Pelajari bagaimana produk TEFA SMKN 1 Cibadak bisa dikenal luas oleh masyarakat — dan peran kamu sebagai siswa PMHP dalam membangunnya.",
+    "definitionTitle": "Apa Itu Brand Awareness?",
+    "definitionText": "Brand Awareness (Kesadaran Merek) adalah kemampuan konsumen untuk mengenali dan mengingat suatu merek dalam berbagai kondisi.",
+    "exampleText": "Ketika seseorang pergi ke warung dan langsung menyebut \"mau beli sabun cuci piring TEFA SMKN 1 Cibadak\" — itulah brand awareness yang tinggi. Mereka tidak hanya tahu produknya ada, tapi langsung ingat namanya.",
+    "relevanceText": "Produk sabun cuci piring yang kalian buat di Program Keahlian PMHP perlu dikenal masyarakat. Tanpa brand awareness, produk sebagus apapun tidak akan laku karena orang tidak tahu keberadaannya.",
+    "pyramidTitle": "Piramida Brand Awareness",
+    "pyramidSubtitle": "Ada 4 tingkatan kesadaran merek — dari yang paling rendah sampai paling tinggi. Tujuan kita: naik ke puncak!",
+    "pyramidLevels": [
+      {
+        "level": 4,
+        "label": "Top of Mind",
+        "desc": "Merek pertama yang langsung terlintas di pikiran",
+        "example": "Ketika ditanya 'sabun cuci piring buatan siswa SMK', langsung ingat TEFA PMHP SMKN 1 Cibadak",
+        "icon": "🏆"
+      },
+      {
+        "level": 3,
+        "label": "Brand Recall",
+        "desc": "Bisa mengingat merek tanpa bantuan petunjuk",
+        "example": "Ketika ditanya produk TEFA SMKN 1 Cibadak, bisa menyebutkan sabun cuci piring PMHP",
+        "icon": "💡"
+      },
+      {
+        "level": 2,
+        "label": "Brand Recognition",
+        "desc": "Mengenali merek ketika melihat atau mendengarnya",
+        "example": "Ketika melihat kemasan atau logo, langsung tahu itu produk TEFA SMKN 1 Cibadak",
+        "icon": "👁️"
+      },
+      {
+        "level": 1,
+        "label": "Unaware of Brand",
+        "desc": "Belum mengenal merek sama sekali",
+        "example": "Belum pernah mendengar atau melihat produk TEFA SMKN 1 Cibadak",
+        "icon": "❓"
+      }
+    ],
+    "whyMattersTitle": "Kenapa Brand Awareness Penting untuk Produk TEFA?",
+    "whyMatters": [
+      {
+        "icon": "📈",
+        "title": "Meningkatkan Penjualan",
+        "desc": "Masyarakat yang mengenal produk TEFA lebih cenderung membeli dibanding produk yang tidak mereka kenal."
+      },
+      {
+        "icon": "🤝",
+        "title": "Membangun Kepercayaan",
+        "desc": "Brand yang dikenal luas menciptakan rasa percaya. Masyarakat merasa lebih aman membeli produk yang sudah familiar."
+      },
+      {
+        "icon": "🏫",
+        "title": "Nama Baik Sekolah",
+        "desc": "Produk TEFA yang dikenal masyarakat mengangkat reputasi SMKN 1 Cibadak sebagai sekolah yang menghasilkan produk berkualitas."
+      },
+      {
+        "icon": "🎓",
+        "title": "Bekal Kewirausahaan",
+        "desc": "Memahami brand awareness membekali siswa dengan ilmu pemasaran nyata yang berguna di dunia kerja dan usaha."
+      }
+    ],
+    "websiteRolesTitle": "Bagaimana Website Ini Membangun Brand Awareness?",
+    "websiteRolesSubtitle": "Website pmhp.web.id dirancang khusus sebagai media pemasaran digital produk TEFA SMKN 1 Cibadak.",
+    "websiteRoles": [
+      {
+        "icon": "🧴",
+        "title": "Menampilkan Produk",
+        "desc": "Website memperkenalkan sabun cuci piring TEFA kepada masyarakat luas yang belum pernah mendengarnya."
+      },
+      {
+        "icon": "🎨",
+        "title": "Membangun Identitas",
+        "desc": "Desain, warna, dan konten website menciptakan kesan visual yang konsisten sehingga mudah diingat."
+      },
+      {
+        "icon": "🌐",
+        "title": "Menjangkau Lebih Luas",
+        "desc": "Tanpa batas geografis — siapa saja bisa mengakses dan mengenal produk TEFA kapan saja dan di mana saja."
+      },
+      {
+        "icon": "📊",
+        "title": "Mengukur Efektivitas",
+        "desc": "Google Analytics mencatat berapa pengunjung, berapa lama mereka di website, dan halaman mana yang paling diminati."
+      }
+    ],
+    "stepsTitle": "Cara Membangun Brand Awareness Produk TEFA",
+    "steps": [
+      {
+        "icon": "🧪",
+        "title": "Buat Produk Berkualitas",
+        "desc": "Produk yang baik adalah fondasi brand. Sabun cuci piring TEFA dibuat dengan standar industri oleh siswa PMHP."
+      },
+      {
+        "icon": "💻",
+        "title": "Buat Media Pemasaran",
+        "desc": "Website, media sosial, dan kemasan yang menarik membantu memperkenalkan produk ke masyarakat."
+      },
+      {
+        "icon": "🔄",
+        "title": "Konsisten & Aktif",
+        "desc": "Update konten secara rutin, tampilkan foto produk terbaru, dan respons pertanyaan calon pembeli."
+      },
+      {
+        "icon": "📈",
+        "title": "Ukur & Evaluasi",
+        "desc": "Gunakan data Google Analytics untuk tahu seberapa efektif website dalam memperkenalkan produk."
+      }
+    ],
+    "metricsTitle": "Bagaimana Efektivitas Website Diukur?",
+    "metricsSubtitle": "Penelitian ini menggunakan 5 metrik dari Google Analytics untuk mengukur seberapa efektif website dalam menarik dan mempertahankan pengunjung.",
+    "metrics": [
+      {
+        "icon": "👥",
+        "title": "Unique Visitors",
+        "desc": "Jumlah orang unik yang mengunjungi website"
+      },
+      {
+        "icon": "📉",
+        "title": "Bounce Rate",
+        "desc": "% pengunjung yang langsung pergi setelah 1 halaman"
+      },
+      {
+        "icon": "⏱️",
+        "title": "Avg. Engagement Time",
+        "desc": "Rata-rata waktu aktif pengunjung di website"
+      },
+      {
+        "icon": "📄",
+        "title": "Pages per Session",
+        "desc": "Rata-rata halaman yang dibuka per kunjungan"
+      },
+      {
+        "icon": "🔄",
+        "title": "Returning Visitors",
+        "desc": "% pengunjung yang kembali mengakses website"
+      }
+    ],
+    "ctaTitle": "Kamu Bagian dari Brand TEFA SMKN 1 Cibadak!",
+    "ctaText": "Sebagai siswa Program Keahlian PMHP, kamu bukan hanya membuat produk — kamu membangun merek. Setiap produk berkualitas yang kamu hasilkan adalah kontribusi nyata untuk brand awareness TEFA SMKN 1 Cibadak."
+  },
+  "gaId": "G-MM1ZENRB76"
 }
